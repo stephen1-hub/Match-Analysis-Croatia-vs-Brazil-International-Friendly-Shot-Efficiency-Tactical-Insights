@@ -82,7 +82,7 @@ Lower shot efficiency
 (Include your mplsoccer shot maps here — home vs away or separate visuals)
 
 # Tactical Implications
-🇧🇷 Brazil
+# 🇧🇷 Brazil
 
 Strengths:
 
@@ -94,7 +94,7 @@ Areas to Improve:
 
 Reduce blocked shots (predictable shooting lanes)
 Add more width to diversify attack
-🇭🇷 Croatia
+# 🇭🇷 Croatia
 
 Weaknesses:
 
