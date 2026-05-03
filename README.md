@@ -79,7 +79,8 @@ Croatia:
 More dispersed shot locations
 Lower shot efficiency
 
-(Include your mplsoccer shot maps here — home vs away or separate visuals)
+<img width="870" height="569" alt="image" src="https://github.com/user-attachments/assets/132e2103-d3ee-4e0e-8934-445eb170fea5" />
+
 
 # Tactical Implications
 # 🇧🇷 Brazil
